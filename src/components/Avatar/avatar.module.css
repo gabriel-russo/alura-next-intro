@@ -1,0 +1,16 @@
+.avatar {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+}
+
+.avatar__image {
+  border-radius: 100%;
+}
+
+.avatar__name {
+  font-weight: 700;
+  font-size: .9rem;
+  color: var(--cinza-medio)
+}
