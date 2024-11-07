@@ -25,7 +25,8 @@ body {
   gap: 1.4rem;
   height: 100%;
   margin: 3rem auto;
-  width: 85%;
+  padding: 0 2rem;
+  width: 70%;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
